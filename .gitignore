@@ -1,0 +1,24 @@
+# Compiled Object files
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+
+#Temporary files
+*.~dfm
+*.~ddp
+*.ddp
+*.~h
+*.~cpp
+*.tds
